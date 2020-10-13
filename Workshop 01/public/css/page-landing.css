@@ -31,6 +31,13 @@ h1,
   justify-content: center;
 
   margin: auto;
+  
+  transition: background 200ms;
+}
+.visit a:hover{
+  background-color: #96feff;
+  transform: translateY(-5px);
+  
 }
 
 #logo {
