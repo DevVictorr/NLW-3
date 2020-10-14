@@ -30,7 +30,7 @@ h1,
   align-items: center;
   justify-content: center;
 
-  margin: auto;
+  
 
   transition: background 200ms;
   animation-delay: 250ms;
@@ -57,7 +57,7 @@ main h1 {
 
 @media (min-width: 760px) {
   #container {
-    padding: 5rem 2rem;
+    padding: 3.5rem 2rem;
     background: url("../images/bg.svg") no-repeat 80% /
       clamp(30rem, 54vw, 56rem);
   }
