@@ -30,8 +30,6 @@ h1,
   align-items: center;
   justify-content: center;
 
-  
-
   transition: background 200ms;
   animation-delay: 250ms;
 }
@@ -102,5 +100,4 @@ main h1 {
     line-height: 1.5;
     width: clamp(20rem, 20vw, 30rem);
   }
-  
 }
